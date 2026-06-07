@@ -1,3 +1,6 @@
 streamlit
 rdkit
 pillow
+numpy
+pandas
+tensorflow
