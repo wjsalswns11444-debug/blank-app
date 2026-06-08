@@ -14,7 +14,7 @@ from tensorflow.keras import layers
 # =========================
 st.set_page_config(page_title="logD 예측 및 구조 최적화", layout="wide")
 
-MODEL_PATH = "gnn_logd_model.keras"
+MODEL_PATH = "gnn_logd_model (1).keras"
 TARGET_MIN = 1.0
 TARGET_MAX = 3.0
 
